@@ -1,0 +1,41 @@
+html {
+  font-size: 62.5%;
+  /* =============1rem=10px===============*/
+}
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 1.6rem;
+  font-family: "sans-serif";
+  color: #333;
+}
+
+img, svg {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  opacity: .7;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+/*# sourceMappingURL=variable.css.map */
